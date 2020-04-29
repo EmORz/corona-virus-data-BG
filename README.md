@@ -49,14 +49,14 @@ export const fetchCountries = async () => {
 ### Setup: npm i && npm start
 
 # Other 
-Visual Dashboard (desktop):
+### Visual Dashboard (desktop):
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
-Visual Dashboard (mobile):
+### Visual Dashboard (mobile):
 http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
 
-Lancet Article:
+### Lancet Article:
 An interactive web-based dashboard to track COVID-19 in real time
 
-Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):
+### Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):
 https://systems.jhu.edu/
