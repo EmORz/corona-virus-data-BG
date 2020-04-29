@@ -49,6 +49,12 @@ export const fetchCountries = async () => {
 ## Corona Virus Tracker SPA => https://github.com/EmORz/project_corona_tracker
 ### Download application 
 ### Setup: npm i && npm start
+# Corona Virus Tracker by npm: 
+# Install globally (recommended). 
+npm install -g corona-cli
+ 
+# Or run directly with npx (installs CLI on every run). 
+npx corona-cli
 # Official institution in Bulgaria connect with COVID 19
 ## Община Разград:
 ![Image of Municipality Razgrad](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/MunicipalityRazgrad.jpg)
