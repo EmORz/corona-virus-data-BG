@@ -59,6 +59,7 @@ npx corona-cli
 ## Example:
 after installed in open commanda prompt:
 - corona bulgaria
+![Image of Municipality Razgrad](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/corona-bulgaria.jpg)
 
 # Official institution in Bulgaria connect with COVID 19
 ## Община Разград:
