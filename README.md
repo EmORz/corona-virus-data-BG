@@ -4,6 +4,7 @@
 ### Simply data of infected with Corona  Virus - COVID-19 in Bulgaria!
 ### Information is updating every day, with information by this API https://covid19.mathdro.id/api
 with axios request
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 ```
 import axios from 'axios';
 
