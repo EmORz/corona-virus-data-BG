@@ -47,7 +47,7 @@ export const fetchCountries = async () => {
 ## Corona Virus Tracker SPA => https://github.com/EmORz/project_corona_tracker
 ### Download application 
 ### Setup: npm i && npm start
-# Oficial institution in Bulgaria connect with COVID 19
+# Official institution in Bulgaria connect with COVID 19
 Единен информационен портал на България:
 ![Image of Portal](https://github.com/EmORz/corona-virus-data-BG/blob/master/Portal.jpg)
 
