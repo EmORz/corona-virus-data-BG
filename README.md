@@ -22,17 +22,15 @@ after installed in open commanda prompt:
 
 # Official institution in Bulgaria connect with COVID 19
 ## Корона вирус: сайт за проследяване на тенденциите:
-[![Image of App track bg](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/app_bg.jpg)](https://coronavirus.bg/arcgis/apps/opsdashboard/index.html#/ecacd239ee7e4fba956f7948f586af93){:target="_blank"}
+[![Image of App track bg](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/app_bg.jpg)](https://coronavirus.bg/arcgis/apps/opsdashboard/index.html#/ecacd239ee7e4fba956f7948f586af93)
 
 ## Община Разград:
 
-[![Image of Municipality Razgrad](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/MunicipalityRazgrad.jpg)](https://razgrad.bg/covid-19){:target="_blank"}
+[![Image of Municipality Razgrad](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/MunicipalityRazgrad.jpg)](https://razgrad.bg/covid-19)
 
 
 ## Единен информационен портал на България:
-![Image of Portal](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/Portal.jpg)
-
-https://coronavirus.bg/bg/
+![Image of Portal](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/Portal.jpg)(https://coronavirus.bg/)
 
 ### Здравните власти препоръчват използването на мобино приложение за проследяване на здравният статус:
 #### Сваляне от Google Play => https://play.google.com/store/apps/details?id=bg.government.virusafe
