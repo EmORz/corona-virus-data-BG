@@ -56,6 +56,10 @@ npm install -g corona-cli
  
 ## Or run directly with npx (installs CLI on every run). 
 npx corona-cli
+## Example:
+after installed in open commanda prompt:
+- corona bulgaria
+
 # Official institution in Bulgaria connect with COVID 19
 ## Община Разград:
 ![Image of Municipality Razgrad](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/MunicipalityRazgrad.jpg)
