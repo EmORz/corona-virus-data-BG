@@ -50,6 +50,7 @@ export const fetchCountries = async () => {
 ### Download application 
 ### Setup: npm i && npm start
 # Corona Virus Tracker by npm: 
+https://www.npmjs.com/package/corona-cli
 ## Install globally (recommended). 
 npm install -g corona-cli
  
