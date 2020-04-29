@@ -59,8 +59,11 @@ npx corona-cli
 ## Example:
 after installed in open commanda prompt:
 - corona bulgaria
+![Image of Municipality Razgrad](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/corona_bulgaria.jpg)
 
 # Official institution in Bulgaria connect with COVID 19
+## Корона вирус: сайт за проследяване на тенденциите:
+
 ## Община Разград:
 ![Image of Municipality Razgrad](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/MunicipalityRazgrad.jpg)
 
@@ -73,6 +76,7 @@ after installed in open commanda prompt:
 ![Image of Portal](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/Portal.jpg)
 
 https://coronavirus.bg/bg/
+
 ### Здравните власти препоръчват използването на мобино приложение за проследяване на здравният статус:
 #### Сваляне от Google Play => https://play.google.com/store/apps/details?id=bg.government.virusafe
 #### Сваляне от App Store => https://apps.apple.com/bg/app/virusafe/id1506362170?mt=8
