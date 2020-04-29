@@ -52,6 +52,10 @@ export const fetchCountries = async () => {
 ![Image of Portal](https://github.com/EmORz/corona-virus-data-BG/blob/master/Portal.jpg)
 
 https://coronavirus.bg/bg/
+### Здравните власти препоръчват използването на мобино приложение за проследяване на здравният статус:
+#### Сваляне от Google Play => https://play.google.com/store/apps/details?id=bg.government.virusafe
+#### Сваляне от App Store => https://apps.apple.com/bg/app/virusafe/id1506362170?mt=8
+
 # Other 
 ### Visual Dashboard (desktop):
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
