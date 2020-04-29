@@ -44,3 +44,6 @@ export const fetchCountries = async () => {
 };
 ```
 # Corona Virus Tracker => https://covid19statswebsite.netlify.app/
+## Corona Virus Tracker SPA => https://github.com/EmORz/project_corona_tracker
+### Download application 
+### Setup: npm i && npm start
