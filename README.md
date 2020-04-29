@@ -30,7 +30,7 @@ after installed in open commanda prompt:
 
 
 ## Единен информационен портал на България:
-![Image of Portal](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/Portal.jpg)(https://coronavirus.bg/)
+[![Image of Portal](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/Portal.jpg)](https://coronavirus.bg/)
 
 ### Здравните власти препоръчват използването на мобино приложение за проследяване на здравният статус:
 #### Сваляне от Google Play => https://play.google.com/store/apps/details?id=bg.government.virusafe
