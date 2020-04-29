@@ -49,7 +49,7 @@ export const fetchCountries = async () => {
 ### Setup: npm i && npm start
 # Official institution in Bulgaria connect with COVID 19
 Единен информационен портал на България:
-![Image of Portal](https://github.com/EmORz/corona-virus-data-BG/blob/master/Portal.jpg)
+![Image of Portal](https://github.com/EmORz/corona-virus-data-BG/blob/master/images/Portal.jpg)
 
 https://coronavirus.bg/bg/
 ### Здравните власти препоръчват използването на мобино приложение за проследяване на здравният статус:
