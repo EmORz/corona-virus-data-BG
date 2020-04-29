@@ -50,10 +50,10 @@ export const fetchCountries = async () => {
 ### Download application 
 ### Setup: npm i && npm start
 # Corona Virus Tracker by npm: 
-# Install globally (recommended). 
+## Install globally (recommended). 
 npm install -g corona-cli
  
-# Or run directly with npx (installs CLI on every run). 
+## Or run directly with npx (installs CLI on every run). 
 npx corona-cli
 # Official institution in Bulgaria connect with COVID 19
 ## Община Разград:
