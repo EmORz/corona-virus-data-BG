@@ -1,6 +1,6 @@
 # corona-virus-data-BG
 ## To see data: 
-=> https://github.com/EmORz/corona-virus-data-BG/blob/master/BG.csv
+- https://github.com/EmORz/corona-virus-data-BG/blob/master/BG.csv
 Simply data of infected with Corona  Virus - COVID-19 in Bulgaria!
 Information is updating every day, with information by this API https://covid19.mathdro.id/api
 with axios request
