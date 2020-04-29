@@ -48,6 +48,9 @@ export const fetchCountries = async () => {
 ### Download application 
 ### Setup: npm i && npm start
 # Oficial institution in Bulgaria connect with COVID 19
+If you want to embed images, this is how you do it:
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 https://coronavirus.bg/bg/
 # Other 
 ### Visual Dashboard (desktop):
