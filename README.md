@@ -47,7 +47,8 @@ export const fetchCountries = async () => {
 ## Corona Virus Tracker SPA => https://github.com/EmORz/project_corona_tracker
 ### Download application 
 ### Setup: npm i && npm start
-
+# Oficial institution in Bulgaria connect with COVID 19
+https://coronavirus.bg/bg/
 # Other 
 ### Visual Dashboard (desktop):
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
