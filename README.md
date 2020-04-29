@@ -3,48 +3,7 @@
 - https://github.com/EmORz/corona-virus-data-BG/blob/master/BG.csv
 ### Simply data of infected with Corona  Virus - COVID-19 in Bulgaria!
 ### Information is updating every day, with information by this API https://covid19.mathdro.id/api
-with axios request
-```
-import axios from 'axios';
 
-const url = 'https://covid19.mathdro.id/api';
-
-export const fetchData = async (country) => {
-  let changeableUrl = url;
-
-  if (country) {
-    changeableUrl = `${url}/countries/${country}`;
-  }
-
-  try {
-    const { data: { confirmed, recovered, deaths, lastUpdate } } = await axios.get(changeableUrl);
-
-    return { confirmed, recovered, deaths, lastUpdate };
-  } catch (error) {
-    return error;
-  }
-};
-
-export const fetchDailyData = async () => {
-  try {
-    const { data } = await axios.get(`${url}/daily`);
-
-    return data.map(({ confirmed, deaths, reportDate: date }) => ({ confirmed: confirmed.total, deaths: deaths.total, date }));
-  } catch (error) {
-    return error;
-  }
-};
-
-export const fetchCountries = async () => {
-  try {
-    const { data: { countries } } = await axios.get(`${url}/countries`);
-
-    return countries.map((country) => country.name);
-  } catch (error) {
-    return error;
-  }
-};
-```
 # Corona Virus Tracker Live Site => https://covid19statswebsite.netlify.app/
 ## Corona Virus Tracker SPA => https://github.com/EmORz/project_corona_tracker
 ### Download application 
@@ -66,12 +25,9 @@ after installed in open commanda prompt:
 [![Image of App track bg](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/app_bg.jpg)](https://coronavirus.bg/arcgis/apps/opsdashboard/index.html#/ecacd239ee7e4fba956f7948f586af93)
 
 ## Община Разград:
-![Image of Municipality Razgrad](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/MunicipalityRazgrad.jpg)
 
-- link: https://razgrad.bg/%D0%BC%D0%B5%D1%80%D0%BA%D0%B8-%D0%BD%D0%B0-%D0%BE%D0%B1%D1%89%D0%B8%D0%BD%D0%B0-%D1%80%D0%B0%D0%B7%D0%B3%D1%80%D0%B0%D0%B4 
- 
- - Мерки на Община Разград: https://razgrad.bg/мерки-на-община-разград
- - Информация за COVID 19:  https://razgrad.bg/информация-за-covid-19
+[![Image of Municipality Razgrad](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/MunicipalityRazgrad.jpg)](https://razgrad.bg/covid-19)
+
 
 ## Единен информационен портал на България:
 ![Image of Portal](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/Portal.jpg)
