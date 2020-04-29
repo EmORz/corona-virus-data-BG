@@ -63,10 +63,7 @@ after installed in open commanda prompt:
 
 # Official institution in Bulgaria connect with COVID 19
 ## Корона вирус: сайт за проследяване на тенденциите:
-[![Foo](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/app_bg.jpg)](https://coronavirus.bg/arcgis/apps/opsdashboard/index.html#/ecacd239ee7e4fba956f7948f586af93)
-
-![Image of App track bg](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/app_bg.jpg)
-
+[![Image of App track bg](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/app_bg.jpg)](https://coronavirus.bg/arcgis/apps/opsdashboard/index.html#/ecacd239ee7e4fba956f7948f586af93)
 
 ## Община Разград:
 ![Image of Municipality Razgrad](https://github.com/EmORz/corona-virus-data-BG/blob/master/Images/MunicipalityRazgrad.jpg)
